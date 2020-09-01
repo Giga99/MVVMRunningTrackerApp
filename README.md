@@ -11,4 +11,5 @@ Using:
   - Glide
   - EasyPermissions
   - MP Chart
+  - Timber
   - MVVM architecture
