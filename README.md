@@ -7,5 +7,8 @@ Using:
   - Room
   - Dagger-Hilt
   - Services
-  - MVVM architecture
   - Google Maps API
+  - Glide
+  - EasyPermissions
+  - MP Chart
+  - MVVM architecture
