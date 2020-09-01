@@ -8,3 +8,4 @@ Using:
   - Dagger-Hilt
   - Services
   - MVVM architecture
+  - Google Maps API
